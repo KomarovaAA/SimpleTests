@@ -1,0 +1,14 @@
+﻿{
+  "settings": {
+    "documentationRules": {
+      "companyName": "Company",
+      "copyrightText": "Copyright (c) {companyName}. All rights reserved.",
+      "headerDecoration": "-----------------------------------------------------------------------"
+    },
+    "indentation": {
+      "indentationSize": 4,
+      "tabSize": 4,
+      "useTabs": false
+    }
+  }
+}
